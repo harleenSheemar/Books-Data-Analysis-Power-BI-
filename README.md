@@ -28,7 +28,7 @@ Dynamic slicers for Genre, Classic/Modern, and Rating Bands
  DAX Measures and Calculated Columns
 This project includes custom DAX logic to enhance insight and interactivity.
 
-Dashboard 
+
 ![DASHBOARD](https://github.com/user-attachments/assets/ddfaa85a-e93f-4486-be5b-9d53d7db171a)
 
 
